@@ -178,13 +178,13 @@ Header
 Top
 ================================*/
 .top {
-  background: url(/img/mv.png) no-repeat center center/cover;
+  background: url(https://seigo-kondoh.github.io/2nd-practice/img/mv.png) no-repeat center center/cover;
 }
 @media screen and (max-width: 767px) {
   .top {
     position: relative;
     height: 599px;
-    background: url(/img/mv.png) no-repeat left -210px center/cover;
+    background: url(https://seigo-kondoh.github.io/2nd-practice/img/mv.png) no-repeat left -210px center/cover;
     z-index: -1;
   }
 }
@@ -854,7 +854,7 @@ Q&A
 .qa {
   margin-top: 120px;
   padding: 60px 0 120px;
-  background: url(/img/qa-bg.png) center center/cover;
+  background: url(https://seigo-kondoh.github.io/2nd-practice/img/qa-bg.png) center center/cover;
 }
 @media screen and (max-width: 767px) {
   .qa {
@@ -1081,7 +1081,7 @@ Access
 Contact
 ================================*/
 .contact {
-  background: url(/img/contact-bg.png) no-repeat center center/cover;
+  background: url(https://seigo-kondoh.github.io/2nd-practice/img/contact-bg.png) no-repeat center center/cover;
   margin-top: 120px;
 }
 @media screen and (max-width: 767px) {
@@ -1103,7 +1103,7 @@ Contact
 }
 
 .contact-head {
-  background: url(/img/contact1.png);
+  background: url(https://seigo-kondoh.github.io/2nd-practice/img/contact1.png);
   width: 960px;
   max-width: 100%;
   height: 196px;
